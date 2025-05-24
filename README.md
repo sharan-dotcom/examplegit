@@ -1,1 +1,1 @@
-gantt manage in js by sharan ss is done
+gantt manage in js by sharan ss is done by sharan
