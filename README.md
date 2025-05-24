@@ -1,1 +1,1 @@
-gantt manage in js
+gantt manage in js by sharan
